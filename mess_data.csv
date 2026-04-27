@@ -1,0 +1,5 @@
+date,meal,total_count,Nair_status,Lachu_status,Anannya_status,Aneena_status,Devananda_status,Gayathri_status,Gopika_status,Ravi_status,Sai_status,Rajesh_status,Upasana_status,Others_status,Nair_cost,Lachu_cost,Anannya_cost,Aneena_cost,Devananda_cost,Gayathri_cost,Gopika_cost,Ravi_cost,Sai_cost,Rajesh_cost,Upasana_cost,Others_cost
+2026-03-06,Bf,3,Full,Shared,,Shared,,Shared,Shared,Shared,,,,,40.0,16.0,0.0,16.0,0.0,16.0,16.0,16.0,0.0,0.0,0.0,0.0
+2026-03-06,Lunch,5,Shared,Shared,,Shared,Shared,Shared,Full,Shared,,,Shared,,28.57,28.57,0.0,28.57,28.57,28.57,50.0,28.57,0.0,0.0,28.57,0.0
+2026-03-06,Dinner,1,,,,,,,,,,,Full,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,0.0
+2026-03-07,Lunch,1,,,,,,Shared,,Shared,,,,,0.0,0.0,0.0,0.0,0.0,25.0,0.0,25.0,0.0,0.0,0.0,0.0
